@@ -1,9 +1,10 @@
 # Site settings
 title: Huang Li
 email: lihuang55555@gmail.com
-description: "Huang Li's Personal Website"
+description: "Life is meaningful if you can earn respect from people you respect; not envy from people you envy."
 baseurl: "/PersonalWebsite"
 url: "http://lihuang.me"
+username: "lheric"
 
 # Build settings
 markdown: kramdown
