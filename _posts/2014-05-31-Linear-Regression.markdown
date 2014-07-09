@@ -15,9 +15,9 @@ $$J = {1 \over 2m} \sum_{i=0}^{m-1}(y_i-f(x_i))^2$$
 
 ***Partial Derivative***
 
-$${\partial J \over \partial \theta_0} =  {1 \over m} \sum_{i=0}^{m-1}(y_i-f(x_i))$$
+$${\partial J \over \partial \theta_0} =  {1 \over m} \sum_{i=0}^{m-1}(f(x_i)-y_i)$$
 
-$${\partial J \over \partial \theta_1} =  {1 \over m} \sum_{i=0}^{m-1}(y_i-f(x_i))x_i$$
+$${\partial J \over \partial \theta_1} =  {1 \over m} \sum_{i=0}^{m-1}(f(x_i)-y_i)x_i$$
 
 ***Gradient Descent***
 
