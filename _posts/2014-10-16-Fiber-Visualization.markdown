@@ -7,6 +7,10 @@ categories: fiber trk format vtk visualization
 
 Some screenshot:
 
+{% flickr_set 72157647112650204 %}
+
+![Screenshot #0]({{ site.baseurl }}/assets/fiber-visualization/1.png)
+
 ![Screenshot #1]({{ site.baseurl }}/assets/fiber-visualization/1.png)
 
 ![Screenshot #2]({{ site.baseurl }}/assets/fiber-visualization/2.png)
