@@ -9,17 +9,3 @@ username: "lheric"
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-#image tag
-image:
-  source: 
-  output: generated
-  presets:
-    users:
-      attr:
-        class: user-portrait
-        itemprop: image
-      width: 350
-    half:
-      width: 400
-      height: 400
