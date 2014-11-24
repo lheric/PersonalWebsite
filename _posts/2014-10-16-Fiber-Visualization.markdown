@@ -7,11 +7,9 @@ categories: fiber trk format vtk visualization
 
 Some screenshot:
 
-{% image 600x400 {{ site.baseurl }}/assets/fiber-visualization/1.png alt="A night scene" %}
+![Screenshot #1](../assets/fiber-visualization/1.png)
 
-![Screenshot #1]({{ site.baseurl }}/assets/fiber-visualization/1.png =600x400)
-
-![Screenshot #2]({{ site.baseurl }}/assets/fiber-visualization/2.png)
+![Screenshot #2]({{ site.url }}/assets/fiber-visualization/2.png)
 
 ![Screenshot #3]({{ site.baseurl }}/assets/fiber-visualization/3.png)
 
